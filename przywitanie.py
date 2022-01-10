@@ -1,1 +1,1 @@
-print("Czesc jestem Piotrek :)")
+print("Czesc jestem Piotrek :)")Tu przedstawi sie kolega
